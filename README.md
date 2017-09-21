@@ -30,7 +30,7 @@ You might want to git clone this repository and install all the required package
 * Opencv
 * matplotlib
 * glob
-* Moverpi
+* Moviepi
 * Ipython
 ## Usage
 Run the jupyter notebook after you setup the environment.
