@@ -25,6 +25,12 @@ The `challenge_video.mp4` video is an extra challenge.  The `harder_challenge.mp
 
 ## Installation
 You might want to git clone this repository and install all the required packages using pip or anaconda. You can find all the package names in the jupyter notebook. Actually, all the codes are contained in this jupyter notebook.
-
+### Package Names
+* Numpy
+* Opencv
+* matplotlib
+* glob
+* Moverpi
+* Ipython
 ## Usage
 Run the jupyter notebook after you setup the environment.
