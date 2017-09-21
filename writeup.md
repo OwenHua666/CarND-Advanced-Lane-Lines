@@ -17,9 +17,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/Undistort_output.png "Undistorted"
+[image1]: ./examples/UndistortED_output.png "Undistorted"
 [image2]: ./examples/original_image.png "Original Road Image"
-[image3]: ./examples/Undistored_image.png "Road Transformed"
+[image3]: ./examples/UndistorTed_image.png "Road Transformed"
 [image4]: ./examples/color_binary.png "Binary Example"
 [image5]: ./examples/warped_straight_lines.png "Warp Example"
 [image6]: ./examples/warped_straight_lines_next.png "Warp Example Next"
@@ -41,7 +41,7 @@ I start by preparing "object points", which will be the (x, y, z) coordinates of
 I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
 
 ![alt text][image9]
-![alt text][image5]
+![alt text][image1]
 
 ### Pipeline (single images)
 
@@ -111,7 +111,7 @@ I implemented this step in Video Processing code block in the ipython notebook i
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video_processed.mp4)
+Here's a [link to my video result](./output_videos/project_video_processed.mp4)
 
 ---
 
