@@ -23,4 +23,8 @@ The video called `project_video.mp4` is the video my pipeline should work well o
 
 The `challenge_video.mp4` video is an extra challenge.  The `harder_challenge.mp4` video is another optional challenge and is brutal! The current code doesn't work well with these two extra challenges. I will come back to them later.
 
+## Installation
+You might want to git clone this repository and install all the required packages using pip or anaconda. You can find all the package names in the jupyter notebook. Actually, all the codes are contained in this jupyter notebook.
 
+## Usage
+Run the jupyter notebook after you setup the environment.
