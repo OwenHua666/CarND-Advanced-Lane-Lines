@@ -26,6 +26,7 @@ The goals / steps of this project are the following:
 [image7]: ./examples/color_fit_lines.png "Fit Visual"
 [image8]: ./examples/example_output.png "Output"
 [video1]: ./project_video.mp4 "Video"
+[image9]: ./examples/original_chessboard.png "Output"
 
 
 ### Camera Calibration
