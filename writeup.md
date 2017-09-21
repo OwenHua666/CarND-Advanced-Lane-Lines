@@ -19,14 +19,15 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/Undistort_output.png "Undistorted"
 [image2]: ./examples/original_image.png "Original Road Image"
-[image3]: ./examples/undistored_image.png "Road Transformed"
+[image3]: ./examples/Undistored_image.png "Road Transformed"
 [image4]: ./examples/color_binary.png "Binary Example"
 [image5]: ./examples/warped_straight_lines.png "Warp Example"
 [image6]: ./examples/warped_straight_lines_next.png "Warp Example Next"
 [image7]: ./examples/color_fit_lines.png "Fit Visual"
 [image8]: ./examples/example_output.png "Output"
-[video1]: ./project_video.mp4 "Video"
 [image9]: ./examples/original_chessboard.png "Output"
+[video1]: ./project_video.mp4 "Video"
+
 
 
 ### Camera Calibration
@@ -40,7 +41,7 @@ I start by preparing "object points", which will be the (x, y, z) coordinates of
 I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result: 
 
 ![alt text][image9]
-![alt text][image1]
+![alt text][image5]
 
 ### Pipeline (single images)
 
