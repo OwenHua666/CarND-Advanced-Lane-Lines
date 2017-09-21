@@ -17,9 +17,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/UndistortED_output.png "Undistorted"
+[image1]: ./examples/Undistorted_output.png "Undistorted"
 [image2]: ./examples/original_image.png "Original Road Image"
-[image3]: ./examples/UndistorTed_image.png "Road Transformed"
+[image3]: ./examples/Undistorted_image.png "Road Transformed"
 [image4]: ./examples/color_binary.png "Binary Example"
 [image5]: ./examples/warped_straight_lines.png "Warp Example"
 [image6]: ./examples/warped_straight_lines_next.png "Warp Example Next"
